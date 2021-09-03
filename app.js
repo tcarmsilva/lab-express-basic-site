@@ -6,7 +6,7 @@ app.use(express.static('public'));
 
 app.get('/home', (request,response,next) => {
     console.log(request);
-    response.sendFile(__dirname + '/views/home.html');
+    response.sendFile(__dirname + '/views/index.html');
 }); 
 
 app.get('/about', (request,response,next) => {
