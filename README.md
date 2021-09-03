@@ -47,4 +47,4 @@ Happy coding! 💙
 
 # My published website
 
-**Check it out here:** 
+**Check it out here:** https://tcarmsilva.github.io/lab-express-basic-site/
